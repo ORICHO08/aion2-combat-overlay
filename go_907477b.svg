@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 80" width="380" height="80">
+  <defs>
+    <linearGradient id="btnBorder" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f0ff"/>
+      <stop offset="100%" stop-color="#ff2d95"/>
+    </linearGradient>
+  </defs>
+  <rect width="380" height="80" rx="14" fill="#1a0b2e" stroke="url(#btnBorder)" stroke-width="2"/>
+  <rect x="2" y="2" width="376" height="76" rx="12" fill="#00f0ff" fill-opacity="0.05"/>
+  <rect x="16" y="16" width="48" height="48" rx="12" fill="#00f0ff"/>
+  <g transform="translate(-4, -4)"><circle cx="30" cy="40" r="8" fill="none" stroke="#fff" stroke-width="2"/><circle cx="50" cy="40" r="8" fill="none" stroke="#fff" stroke-width="2"/><path d="M 38 40 L 42 40" stroke="#fff" stroke-width="2"/></g>
+  <text x="84" y="34" fill="#9ca3af" font-family="monospace, sans-serif" font-size="12" font-weight="700" letter-spacing="1">AION2 COMBAT OVERLAY</text>
+  <text x="84" y="58" fill="#ffffff" font-family="monospace, sans-serif" font-size="20" font-weight="900">GET PACKAGE</text>
+</svg>
